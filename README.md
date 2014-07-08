@@ -15,3 +15,5 @@ Plugins until now:
 + Books
 
 + Doorkick
+
++ Deathview
