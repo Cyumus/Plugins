@@ -6,4 +6,4 @@ PLUGIN.author = "Cyumus"
 // We are thinking on changing the official language of our community to English / become bilingual because we want all of you to understand us.
 
 nut.util.Include("sh_config.lua")
-nut.util.Include("cl_book_1.lua")
+nut.util.Include("cl_books.lua")
