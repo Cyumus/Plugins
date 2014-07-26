@@ -80,7 +80,7 @@ nut.command.Register({
 		
 		}
 		
-		if !client:IsCombine() or !client:HasItem("clothing_civilprotection") then
+		if !client:IsCombine() then
 			
 			nut.util.Notify("You are too weak to kick this door in!", client);
 			return
