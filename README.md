@@ -1,5 +1,5 @@
 # Plugins
-=======
+______
 
 Public Plugins made by me in the following communities:
 · Carpathia Gaming Community
@@ -7,7 +7,7 @@ Public Plugins made by me in the following communities:
 · La Corporativa
 
 
-=======
+______
 
 I made this repo for freesharing my plugins. Thanks for downloading.
 
