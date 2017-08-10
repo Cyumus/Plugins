@@ -13,16 +13,15 @@ I made this repo for freesharing my plugins. Thanks for downloading.
 
 Plugins until now:
 
-+ Crafting
+## Crafting
 
-+ Gathering
+## Gathering
 
-+ Readers
+## Readers
 
-+ Books
+## Books
 
-+ Doorkick
+## Doorkick
 
-+ Deathview
-
+## Deathview
 This plugin has been made by [Thadah Denyse](http://www.github.com/Thadah)
