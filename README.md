@@ -24,4 +24,5 @@ Plugins until now:
 + Doorkick
 
 + Deathview
+
 This plugin has been made by [Thadah Denyse](http://www.github.com/Thadah)
