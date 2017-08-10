@@ -1,0 +1,9 @@
+ENT.Base = "nut_readerbase"
+ENT.Type = "anim"
+ENT.PrintName = "Level 2 MCR"
+ENT.Author = "La Corporativa"
+ENT.Spawnable = true
+ENT.AdminOnly = true
+ENT.Category = "NutScript"
+ENT.Level = "Level 2"
+ENT.Cards = {"comkey", "admkey", "nuckey"}
