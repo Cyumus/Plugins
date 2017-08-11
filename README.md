@@ -60,7 +60,7 @@ This plugin has been originally made by [Johnny Guitar](https://github.com/johnn
 I made these plugins when I was 18 for NS 1.0, I ported some plugins to NS 1.1, and now there's a new version of NS 1.2. I'm currently working on my personal projects and I won't neither port them to NS 1.2 nor work on NS for a while, so I decided to publish them...
 
 ## WTF
-I know. As I said, I made these plugins when I was 18. I was unexperienced and I didn't know what to code properly (neither I am nowadays after been studying Computer Science, but whatever...). Don't hesitate to create issues on this repo. I'll fix them when I have time. Also, don't raise the WTFs per minute when you find something WTFable, please, I'm busy working on other projects and I'll only take care of the [Issues](https://github.com/Cyumus/Plugins/issues).
+I know. As I said, I made these plugins when I was 18. I was unexperienced and I didn't know how to code properly (neither I am nowadays after been studying Computer Science, but whatever...). Don't hesitate to create issues on this repo. I'll fix them when I have time. Also, don't raise the WTFs per minute when you find something WTFable, please, I'm busy working on other projects and I'll only take care of the [Issues](https://github.com/Cyumus/Plugins/issues).
 
 ## How do I create a new Issue?
 [If you click on this magic link, it'll bring you to the magic world of Issuesland](https://github.com/Cyumus/Plugins/issues/new)
