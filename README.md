@@ -1,5 +1,3 @@
-![Image](https://avatars2.githubusercontent.com/u/8088613?v=4&u=11f050943371f7192967259279811c7343a08b03&s=400)
-
 # Cyumus Aduni NutScript Plugins
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
